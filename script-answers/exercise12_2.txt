@@ -1,0 +1,12 @@
+Script started on 2026-01-19 09:22:57+02:00 [TERM="xterm-256color" TTY="/dev/pts/6" COLUMNS="177" LINES="12"]
+[?2004h[38;2;243;174;53m[0m[48;2;243;174;53m[38;2;38;43;68m joel_heikkinen [0m[38;2;243;174;53m[0m[0m[38;2;240;118;35;49m[7m[0m[48;2;240;118;35m[38;2;224;222;244m  ]8;;file:C:/Users/Joel Heikkinen/fso-osa-12/script-answers\script-answers]8;;\ [0m[48;2;243;174;53m[38;2;240;118;35m[0m[48;2;243;174;53m[38;2;38;43;68m ]8;;https://github.com/Joelh123/fso-osa-12.git\]8;;\ main ≡  ?1 [0m[38;2;243;174;53m[0m[0m[38;2;75;149;233;49m[7m[0m[48;2;75;149;233m[38;2;224;222;244m  [0m[38;2;75;149;233m[0m]0;bash in script-answers docker -[Krun .[K-it ubunutu b[K[K[K[K[Ktu bash[C[C[C[1@ [1@c[1@o[1@n[1@t[1@a[1@i[1@n[1@e[1@r[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'[K
+[?2004l[?2004h]0;root@ed424c2b2aa9: /root@ed424c2b2aa9:/# mkdir ./usr/scr/app
+[?2004lmkdir: cannot create directory './usr/scr/app': No such file or directory
+[?2004h]0;root@ed424c2b2aa9: /root@ed424c2b2aa9:/# mkdir ./usr/scr/app.[1P
+[?2004lmkdir: cannot create directory '/usr/scr/app': No such file or directory
+[?2004h]0;root@ed424c2b2aa9: /root@ed424c2b2aa9:/# mkdir /usr/scr/appr[1P[1P[1@r[1@c
+[?2004l[?2004h]0;root@ed424c2b2aa9: /root@ed424c2b2aa9:/# mkdir /usr/src/appcr/app[1@./usr/scr/app[1P/usr/scr/apprc/app[Kmkdir /usr/src/appcr/app[1@./usr/scr/app[1P/usr/scr/apprc/app[Ktouch indes.  x.js
+[?2004l[?2004h]0;root@ed424c2b2aa9: /root@ed424c2b2aa9:/# exit
+[?2004lexit
+[?2004h[38;2;243;174;53m[0m[48;2;243;174;53m[38;2;38;43;68m joel_heikkinen [0m[38;2;243;174;53m[0m[0m[38;2;240;118;35;49m[7m[0m[48;2;240;118;35m[38;2;224;222;244m  ]8;;file:C:/Users/Joel Heikkinen/fso-osa-12/script-answers\script-answers]8;;\ [0m[48;2;243;174;53m[38;2;240;118;35m[0m[48;2;243;174;53m[38;2;38;43;68m ]8;;https://github.com/Joelh123/fso-osa-12.git\]8;;\ main ≡  ?1 [0m[38;2;243;174;53m[0m[0m[38;2;75;149;233;49m[7m[0m[48;2;75;149;233m[38;2;224;222;244m  [0m[38;2;75;149;233m[0m]0;bash in script-answers touch poop.txt
+[?2004l[?2004h[38;2;243;174;53m[0m[48;2;243;174;53m[38;2;38;43;68m joel_heikkinen [0m[38;2;243;174;53m[0m[0m[38;2;240
