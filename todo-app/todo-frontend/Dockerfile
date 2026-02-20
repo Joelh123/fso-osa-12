@@ -1,7 +1,5 @@
 FROM node:20-alpine AS build-stage 
 
-ENV VITE_BACKEND_URL="http://localhost:3000/"
-
 WORKDIR /usr/src/app
 
 COPY . .
